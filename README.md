@@ -4,8 +4,8 @@
 
 Задание 1
 Скачайте и установите виртуальную машину Metasploitable: https://sourceforge.net/projects/metasploitable/.
-![1-1](https://github.com/SG-netology/13-1-Git/blob/main/1-1.png)
 Это типовая ОС для экспериментов в области информационной безопасности, с которой следует начать при анализе уязвимостей.
+![1-1](https://github.com/SG-netology/13-1-Git/blob/main/1-1.png)
 
 Просканируйте эту виртуальную машину, используя nmap.
 ![1-4](https://github.com/SG-netology/13-1-Git/blob/main/1-4.png)
